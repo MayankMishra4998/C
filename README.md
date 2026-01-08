@@ -17,8 +17,3 @@ Welcome to my C learning journey! This repository documents my progress, notes, 
 - Advanced Concepts (bitwise operations, macros)
 
 ---
-
-## 🛠️ Setup Instructions
-1. Install a C compiler (e.g., GCC).
-   ```bash
-   sudo apt install gcc
