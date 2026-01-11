@@ -11,4 +11,4 @@ Welcome to my C learning journey! This repository documents my progress, notes, 
 variable's :- Create Variables , Format Specifiers ,  Declare Multiple Variables , Variable Names & there rule's , Real-Life Example
 
 # Day 2 :- 
-Data Type :- 
+Data Type :- Type's of datatype in C , Memory Size and real life example
