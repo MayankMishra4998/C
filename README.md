@@ -12,3 +12,4 @@ variable's :- Create Variables , Format Specifiers ,  Declare Multiple Variables
 
 # Day 2 :- 
 Data Type :- Type's of datatype in C , Memory Size and real life example
+Type Conversion :- 
