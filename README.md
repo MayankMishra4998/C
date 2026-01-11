@@ -9,3 +9,6 @@ Welcome to my C learning journey! This repository documents my progress, notes, 
 
 # Day 1 :- 
 variable's :- Create Variables , Format Specifiers ,  Declare Multiple Variables , Variable Names & there rule's , Real-Life Example
+
+# Day 2 :- 
+Data Type :- 
