@@ -19,4 +19,4 @@ Type Conversion :- there types Implicit and explicit
 Operators , it's type & booleans
 
 # Day 4 :- 
-If-Else Statement
+If-Else & Switch Statement
